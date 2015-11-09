@@ -1,0 +1,2 @@
+2015-11-02 16:00:13 INFO  [main] com.sree.textbytes.network.HtmlFetcher.getHtml(80) - url  http://www.washingtontimes.com/news/2012/aug/29/american-scene-cdc-says-west-nile-cases-rise-40-in/?page=1&utm_medium=RSS&utm_source=RSS_Feed
+2015-11-02 16:00:14 WARN  [main] com.sree.textbytes.network.HtmlFetcher.initClient(351) - Socket time out property not found , using default100000
